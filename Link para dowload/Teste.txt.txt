@@ -1,0 +1,7 @@
+O Git é fundamental para a otimização de projetos. E, com certeza, se você usa ou pretende usar o Git é importante que esteja familiarizado com os principais comandos Git.
+
+No começo provavelmente será bastante confuso. Você vai usar um comando, ele não vai dar certo e você vai ficar quebrando a cabeça pra tentar descobrir o que foi que faltou.
+
+Então relaxe, pois o processo é o mesmo pra todo mundo 😉
+
+O que não significa, é claro, que a gente não possa te ajudar a passar menos perrengue. Então preparei este artigo com a criação dos principais atalhos para o Git, o que te permitirá potencializar o trabalho do dia a dia, garantindo uma melhor experiência e maior produtividade.
